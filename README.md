@@ -8,6 +8,7 @@ my Python skills through hands-on projects, coding challenges, and continuous le
  
 
 **Skills and Tools**:
+
 - Programming Languages: Python
 - Libraries & Frameworks: Pandas, Numpy, Django and FastAPI(basic)
 - Version Control: Git & Github
@@ -15,6 +16,7 @@ my Python skills through hands-on projects, coding challenges, and continuous le
 - Web Development: HTML and CSS
 
 **Learning and Growth**
+
 I'm constantly seeking to improve my skills and knowledge. Here are some of the things I'm currently exploring:
 - Advanced Python concepts
 - Web development with Django and Flask
@@ -22,8 +24,11 @@ I'm constantly seeking to improve my skills and knowledge. Here are some of the 
 - Data Analysis
 
 **What I'm Looking For**
-I’m looking for help with **projects, **Hackathons, **Internships, and **entry-level opportunities.
-- 💼 Job interests: Software Engineer or Backend engineer (Intern or Junior level).
+
+I’m looking for help with **Open Source project**, **Hackathons**, **Internships**, and **Entry-level opportunities**. I'm eager to 
+collaborate on projects where I can contribute to meaningful work while learning from more experienced developers and professionals. Whether it's a new project or an existing one, I'm ready to dive in and help out!
+
+
 - 📫 You can [view my resume](#) and contact me by emailing adenugaopeyemi98@gmail.com.
 
 ---
