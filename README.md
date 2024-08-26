@@ -29,8 +29,9 @@ I’m looking for help with **Open Source project**, **Hackathons**, **Internshi
 collaborate on projects where I can contribute to meaningful work while learning from more experienced developers and professionals. Whether it's a new project or an existing one, I'm ready to dive in and help out!
 
 ** Let's Connect**
+
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-adenuga-250857201)
-- 📫 adenugaopeyemi98@gmail.com.
+- 📫 Email: adenugaopeyemi98@gmail.com.
 
 ---
 
